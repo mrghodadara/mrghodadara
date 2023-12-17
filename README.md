@@ -20,13 +20,13 @@
 🌱 I’m currently learning something amazing 🔥(Kubernetes and Docker)
 <br>
 
-👨‍💻 All of my projects are available at http://www.mitulkanani.com
+<!-- 👨‍💻 All of my projects are available at http://www.mitulkanani.com -->
 <br>
 
 💬 Ask me about React, JavaScript, Node JS
 <br>
 
-📫 How to reach me kmitul1993@gmail.com | LinkedIn
+<!-- 📫 How to reach me kmitul1993@gmail.com | LinkedIn -->
 <br>
 
 📄 Know about my experiences Resume
