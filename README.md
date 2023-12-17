@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hi 👋, I'm Vivek Ghodadara</h1>
+<h1 align="center">Hi 👋, I'm Vivek Ghodadara😊</h1>
 
 ###
 
@@ -18,11 +18,11 @@
 <br>
 🌱 I’m currently learning NFT and Web 3 tech.
 <br>
-<a href="https://github.com/mrghodadara?tab=repositories" rel="nofollow">👨‍💻 All of my projects are available at </a>
+👨‍💻 All of my projects are available at <a href="https://github.com/mrghodadara?tab=repositories" target="_blank" rel="nofollow"> Git hub </a>
 <br>
 💬 Ask me about React, JavaScript, Node JS
 <br>
-📫 How to reach me **vgghodadara2003@gmail.com** | <a href="https://in.linkedin.com/in/vivek-ghodadara-361880272" rel="nofollow">LinkedIn</a>
+📫 How to reach me vgghodadara2003@gmail.com | <a href="https://in.linkedin.com/in/vivek-ghodadara-361880272" rel="nofollow" target="_blank">LinkedIn</a>
 <br>
 ⚡ Fun fact I am half Human and Half JavaScript
 <br>
@@ -39,14 +39,6 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://reactnative.dev/" target="_blank">
-  <img
-    src="https://reactnative.dev/img/header_logo.svg"
-    alt="reactnative"
     width="40"
     height="40"
   />
@@ -111,14 +103,6 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.electronjs.org" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-    alt="electron"
     width="40"
     height="40"
   />
@@ -198,14 +182,6 @@
     height="40"
   />
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  />
-</a>
 <a href="https://nextjs.org/" target="_blank">
   <img
     src="https://cdn.simpleicons.org/next.js/black/white"
@@ -222,22 +198,6 @@
     height="40"
   />
 </a>
-<a href="https://www.photoshop.com/en" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-    alt="photoshop"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.php.net" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="php"
-    width="40"
-    height="40"
-  />
-</a>
 <a href="https://postman.com" target="_blank">
   <img
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -246,21 +206,4 @@
     height="40"
   />
 </a>
-<a href="https://www.tensorflow.org" target="_blank">
-  <img
-    src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"
-    alt="tensorflow"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-    alt="xd"
-    width="40"
-    height="40"
-  />
-</a>
-
 </div>
