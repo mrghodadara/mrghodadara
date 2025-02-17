@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js | Passionate Programmer.
+<h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js.
 </h3>
 
 ###
