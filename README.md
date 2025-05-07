@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js | Passionate Programmer.
+<h3 align="center">Full-stack Web developer | React.js | Next.js | Node.js.
 </h3>
 
 ###
@@ -23,8 +23,6 @@
 💬 Ask me about React, JavaScript, Node JS
 <br>
 📫 How to reach me vgghodadara2003@gmail.com | <a href="https://in.linkedin.com/in/vivek-ghodadara-361880272" rel="nofollow" target="_blank">LinkedIn</a>
-<br>
-⚡ Fun fact I am half Human and Half JavaScript
 <br>
 </p>
 
