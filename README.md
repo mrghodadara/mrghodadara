@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Frontend Web developer | React.js | Next.js.
+<h3 align="center">Frontend Web developer HTML | CSS | Javascript | React.js | Next.js.
 </h3>
 
 ###
@@ -14,7 +14,7 @@
 ###
 
 <p>
-🔭 I’m currently working on ReactJS, Next js, Nest js, NodeJS, Firebase, MongoDB, Algolia etc.
+🔭 I’m currently working on HTML, CSS, Javascript, ReactJS, Next js, Nest js, NodeJS, Firebase, MongoDB, Algolia etc.
 <br>
 🌱 I’m currently learning NFT and Web 3 tech.
 <br>
