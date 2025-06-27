@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Frontend Web developer HTML | CSS | Javascript | React.js | Next.js.
+<h3 align="center">Full-stack developer HTML | CSS | Javascript | React.js | Next.js | Node js.
 </h3>
 
 ###
